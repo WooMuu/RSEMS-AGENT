@@ -1,6 +1,6 @@
 package com.agent.schedules;
 
-import com.agent.ProcessInfo;
+import com.agent.model.monitor.ProcessInfo;
 import com.agent.client.CxfClient;
 import com.agent.config.LocalSettings;
 import com.agent.config.SigarUtils;

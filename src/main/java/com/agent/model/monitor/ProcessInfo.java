@@ -1,4 +1,4 @@
-package com.agent;
+package com.agent.model.monitor;
 
 /**
  * Created by zjb on 2018/7/10.
